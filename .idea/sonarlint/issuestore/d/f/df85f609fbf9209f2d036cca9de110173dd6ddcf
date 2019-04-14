@@ -1,0 +1,64 @@
+
+R
+squid:S106"9Replace this use of System.out or System.err by a logger.(ö‰øÿÿÿÿ
+R
+squid:S106"9Replace this use of System.out or System.err by a logger.(Œƒ¨Øøÿÿÿÿ
+L
+squid:S106"9Replace this use of System.out or System.err by a logger.(…’”K
+R
+squid:S106"9Replace this use of System.out or System.err by a logger.(¡£Ìòøÿÿÿÿ
+M
+squid:S106"9Replace this use of System.out or System.err by a logger.(Ü»¼¬
+Psquid:S2696"6Make the enclosing method "static" or remove this set.(¯µ±Ïüÿÿÿÿ
+Jsquid:S2696"6Make the enclosing method "static" or remove this set.(ûî‘
+R
+squid:S106"9Replace this use of System.out or System.err by a logger.(¡£Ìòøÿÿÿÿ
+R
+squid:S106"9Replace this use of System.out or System.err by a logger.(‹ğ­çıÿÿÿÿ
+M
+squid:S106"9Replace this use of System.out or System.err by a logger.(ÖáöĞ
+R
+squid:S106"9Replace this use of System.out or System.err by a logger.(ªÓ¼áşÿÿÿÿ
+M
+squid:S106"9Replace this use of System.out or System.err by a logger.(«¾¯«
+M
+squid:S106"9Replace this use of System.out or System.err by a logger.( Ô…È
+esquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(öÚ²Èÿÿÿÿÿ
+`squid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(ê”÷
+esquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(ÌÉ®Æûÿÿÿÿ
+M
+squid:S106"9Replace this use of System.out or System.err by a logger.(‡„ú¡
+R
+squid:S106"9Replace this use of System.out or System.err by a logger.(ã¿Õüÿÿÿÿ
+M
+squid:S106"9Replace this use of System.out or System.err by a logger.(¤‘‰‰
+M
+squid:S106"9Replace this use of System.out or System.err by a logger.(¹Õ“
+M
+squid:S106"9Replace this use of System.out or System.err by a logger.(ä…‹
+L
+squid:S106"9Replace this use of System.out or System.err by a logger.(…’”K
+M
+squid:S106"9Replace this use of System.out or System.err by a logger.(Ü»¼¬
+R
+squid:S106"9Replace this use of System.out or System.err by a logger.(¥’”«ÿÿÿÿÿ
+Jsquid:S2696"6Make the enclosing method "static" or remove this set.(ûî‘
+Psquid:S2696"6Make the enclosing method "static" or remove this set.(Æüƒºÿÿÿÿÿ
+Psquid:S2696"6Make the enclosing method "static" or remove this set.(¯µ±Ïüÿÿÿÿ
+R
+squid:S106"9Replace this use of System.out or System.err by a logger.(Ã™âûÿÿÿÿ
+esquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(¥ïöùÿÿÿÿ
+esquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(˜õ‚‹şÿÿÿÿ
+fsquid:S1192"LDefine a constant instead of duplicating this literal "You've lost" 3 times.(¡£Ìòøÿÿÿÿ
+R
+squid:S106"9Replace this use of System.out or System.err by a logger.(Ã™âûÿÿÿÿ
+R
+squid:S106"9Replace this use of System.out or System.err by a logger.(¡£Ìòøÿÿÿÿ
+M
+squid:S106"9Replace this use of System.out or System.err by a logger.(¡–Ùî
+Psquid:S2696"6Make the enclosing method "static" or remove this set.(¯µ±Ïüÿÿÿÿ
+Isquid:S1068"/Remove this unused "splitedHand" private field.(Ó³è¦øÿÿÿÿ
+M
+squid:S106"9Replace this use of System.out or System.err by a logger.( Ô…È
+lsquid:S3776"RRefactor this method to reduce its Cognitive Complexity from 24 to the 15 allowed.(èí¾şÿÿÿÿ
+rsquid:S00120"WRename this package name to match the regular expression '^[a-z]+(\.[a-z][a-z0-9]*)*$'.(ÍŞÂŸÿÿÿÿÿ
